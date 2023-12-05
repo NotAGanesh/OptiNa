@@ -6,4 +6,4 @@ Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Clo
 <a href="https://fabricmc.net/">This Modpack Require Fabric Mod Download Here</a>
 
 
-![OptiNa](/OptiNa/blob/main/Media/OptiNa.png?raw=true "OptiNa")
+![OptiNa](/Media/OptiNa.png?raw=true "OptiNa")
