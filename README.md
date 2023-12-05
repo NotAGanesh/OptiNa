@@ -5,6 +5,6 @@ Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Clo
 
 <a href="https://fabricmc.net/">This Modpack Require Fabric Mod Download Here</a>
 <center><h3>OptiNa</h3></center>
-<a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/OptiNa.png?raw=true" alt="OptiNa" style="width:30%;height:30%;"></a>
+<a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/OptiNa.png?raw=true" alt="OptiNa" style="width:100%;height:100%;"></a>
 <center><h3>Vanilla</h3></center>
 ![Vanilla](/Media/Vanilla.png?raw=true "Vanilla")
