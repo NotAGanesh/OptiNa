@@ -11,3 +11,4 @@ Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Clo
 
 # Issues
 - some crashes with Dynamic FPS Mod
+- some crashes with capes mod
