@@ -8,3 +8,6 @@ Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Clo
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/OptiNa.png?raw=true" alt="OptiNa" style="width:100%;height:100%;"></a>
 <center><h3>Vanilla</h3></center>
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/Vanilla.png?raw=true" alt="Vanilla" style="width:100%;height:100%;"></a>
+
+# Issues
+- some crashes with Dynamic FPS Mod
