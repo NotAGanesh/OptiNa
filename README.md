@@ -13,5 +13,5 @@ Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Clo
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/Vanilla.png?raw=true" alt="Vanilla" style="width:100%;height:100%;"></a>
 
 # Issues
-- some crashes with Dynamic FPS Mod
-- some crashes with capes mod
+All issues Resolved
+create a issue if know
