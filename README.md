@@ -3,6 +3,8 @@
 <br>
 <br>
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Assets/logo_title.png?raw=true" alt="Logo Title"></a>
+<br>
+<br>
 ![Information](https://raw.githubusercontent.com/NotAGanesh/OptiNa/main/Assets/information_templete.png)
 > a modpack for **Minecraft: Java Edition** aim to Re-Create **OptiFine** Mod in Fabric/QuiltMC using Sodium with all **OptiFine** Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Cloaks,Shaders,Optifine Zoom,Model Gap Fix and more...
 
