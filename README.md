@@ -15,6 +15,11 @@
 <center><h3>Vanilla</h3></center>
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/Vanilla.png?raw=true" alt="Vanilla" style="width:100%;height:100%;"></a>
 
+# Play With Shaders & Texture Pack
+![Shaders](https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_shaders_screenshot.png?raw=true)
+
+
 # Issues
 All issues Resolved
 create a issue if know
+
