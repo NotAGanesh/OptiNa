@@ -14,13 +14,11 @@
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/OptiNa.png?raw=true" alt="OptiNa" style="width:100%;height:100%;"></a>
 <center><h3>Vanilla</h3></center>
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/Vanilla.png?raw=true" alt="Vanilla" style="width:100%;height:100%;"></a>
-<br>
-<br>
+
 # Play With Shaders & Texture Pack
 ![Shaders](https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_shaders_screenshot.png?raw=true)
 **IRIS Shader** Mod Supported, so you can create Heavily Modified Renders, You can create cool Cinematics with **Reply Mod**
-<br>
-<br>
+
 # Play With Custom Cape & OptiFine Cape
 ![Capes]((https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_custom_cape_screenshot.png?raw=true)
 > if you Donated To OptiFine you will get a Free cape in OptiFine Mod But OptiNa Mod Also Supports OptiFine Cape & Cloaks Like Helloween Hat And x mas Hat Etc.
