@@ -21,7 +21,7 @@
 
 # Play With Custom Cape & OptiFine Cape
 ![Capes]((https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_custom_cape_screenshot.png?raw=true)
-> if you Donated To OptiFine you will get a Free cape in OptiFine Mod But OptiNa Mod Also Supports OptiFine Cape & Cloaks Like Helloween Hat And x mas Hat Etc.
+if you Donated To OptiFine you will get a Free cape in OptiFine Mod But OptiNa Mod Also Supports OptiFine Cape & Cloaks Like Helloween Hat And x mas Hat Etc.
 
 
 # Issues
