@@ -17,6 +17,7 @@
 
 # Play With Shaders & Texture Pack
 ![Shaders](https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_shaders_screenshot.png?raw=true)
+**IRIS Shader** Mod Supported, so you can create Heavily Modified Renders, You can create cool Cinematics with **Reply Mod**
 
 
 # Issues
