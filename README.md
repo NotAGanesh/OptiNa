@@ -27,7 +27,7 @@ if you Donated To OptiFine you will get a Free cape in OptiFine Mod But OptiNa M
 you can Download/Update **Shaders**,**Texture Packs** and **Data Packs** In-Game 
 using [Resourcify](https://modrinth.com/mod/resourcify) (Mod) By **DeDimandPro**
 
-<a href="https://modrinth.com/modpack/optina-fabric"><a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_logo_copyrighted.png?raw=true" alt="Logo">
+<a href="https://modrinth.com/modpack/optina-fabric"><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Assets/modrinth_logo_copyrighted.png?raw=true" alt="Modrinth Page" style="width:100%;height:100%;"></a>
 
 
 # Issues
