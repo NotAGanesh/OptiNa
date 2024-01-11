@@ -7,8 +7,7 @@
 <br>
 ![Information](https://raw.githubusercontent.com/NotAGanesh/OptiNa/main/Assets/information_templete.png)
 > a modpack for **Minecraft: Java Edition** aim to Re-Create **OptiFine** Mod in Fabric using Sodium with all **OptiFine** Features are supported! HD Textures,Custom Models,CIT Models,Optifine Cape & Cloaks,Shaders,Optifine Zoom,Model Gap Fix and more...
-
-
+![High Performance](https://github.com/NotAGanesh/OptiNa/blob/main/Assets/high_performance_banner_optina_team.png?raw=true)
 <a href="https://fabricmc.net/">This Modpack Require Fabric Mod Download Here</a>
 <center><h3>OptiNa</h3></center>
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Media/OptiNa.png?raw=true" alt="OptiNa" style="width:100%;height:100%;"></a>
