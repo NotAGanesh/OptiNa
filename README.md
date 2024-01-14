@@ -1,8 +1,8 @@
 # OptiNa
+<a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Assets/Logo.png?raw=true" alt="Logo" style="width:10%;height:10%;"></a> <br>
+<br>
+<br>
 ![Logo](https://raw.githubusercontent.com/NotAGanesh/OptiNa/94ab78772e0031568a310e5ac43e3eb5e2da87ca/Assets/OptiNa%20Logo.svg)
-<br>
-<br>
-<a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Assets/logo_title.png?raw=true" alt="Logo Title"></a>
 <br>
 <br>
 ![Information](https://raw.githubusercontent.com/NotAGanesh/OptiNa/main/Assets/information_templete.png)
