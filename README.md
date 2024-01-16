@@ -7,6 +7,15 @@
 <br>
 ![Information](https://raw.githubusercontent.com/NotAGanesh/OptiNa/main/Assets/information_templete.png)
 > The modpack aims to recreate the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)(Fabric) and is faster than Vanilla/OptiFine, thanks the to modern mods like Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark,OptiNa is lightweight and supports all OptiFine features like OptiFine zoom, HD textures, custom models, OptiFine cape, OptiFine holiday cloaks, FPS boost, and more, **One bonus feature of OptiNa is that it updates faster than OptiFine with new versions**
+
+# Supported Version
+**Minecraft: [Java Edition](https://minecraft.wiki/w/Java_Edition) (Fabric)** <br>
+![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
+![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-_1.20.4-2ea44f?style=for-the-badge)
+![Modrinth License](https://img.shields.io/badge/License-GPL--3.0-805fa0?style=for-the-badge)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/uQZwZZvs?style=for-the-badge)
+![Modrinth Downloads](https://img.shields.io/modrinth/followers/uQZwZZvs?style=for-the-badge)
+
 ![High Performance](https://github.com/NotAGanesh/OptiNa/blob/main/Assets/high_performance_banner_optina_team.png?raw=true)
 <a href="https://modrinth.com/app/"><strong>Modrinth App</strong></a>
 <center><h3>OptiNa</h3></center>
