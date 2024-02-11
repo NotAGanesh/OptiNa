@@ -1,4 +1,4 @@
-# OptiNa
+# OptiNa Legacy
 <a><img src="https://github.com/NotAGanesh/OptiNa/blob/main/Assets/Logo.png?raw=true" alt="Logo" style="width:10%;height:10%;"></a> <br>
 <br>
 <br>
