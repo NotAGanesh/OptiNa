@@ -1,5 +1,5 @@
 ## Maintenance Status
-OptiNa Legacy due to a lack of available time,resources & mainly damaged config files As of Minecraft Newer Versions, The Original OptiNa Modpack is Now called OptiNa Legacy. we are happy to announce that we forked the project and fixed all issues with a new modpack entry called [OptiNa Reborn](https://modrinth.com/modpack/optina-reborn), 
+OptiNa Legacy is not currently maintained due to a lack of available time,resources & mainly damaged config files As of Minecraft Newer Versions, The Original OptiNa Modpack is Now called OptiNa Legacy. we are happy to announce that we forked the project and fixed all issues with a new modpack entry called [OptiNa Reborn](https://modrinth.com/modpack/optina-reborn), 
 
 we fixed major issues on this project like damaged config files & crashes.
 we bring Lightweight new configs. that significantly improve game perfomance & graphics
